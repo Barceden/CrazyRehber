@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CrazyRehber</string>
+    <string name="kullaniciadi">Kullanıcı Adı :</string>
+    <string name="degisikyazi">dsdsdsdsd</string>
+    <string name="advesoyad">Ad ve Soyad :</string>
+    <string name="email">E-Mail :</string>
+    <string name="telno">Tel No :</string>
+    <string name="cinsiyet">Cinsiyet :</string>
+    <string name="kaydet">KAYDET</string>
+    <string name="duzenle">DUZENLE</string>
+    <string name="sil">SİL</string>
+</resources>
